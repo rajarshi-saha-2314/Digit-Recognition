@@ -14,7 +14,7 @@ The goal is to compare the performance of ANN and CNN models in classifying hand
 DIGIT-RECOGNITION/
 │
 ├── notebooks/
-    └──.ipynb_checkpoints
+    └──.ipynb_checkpoints/
     └── digit_recognition.ipynb
 ├── results/             
     └──accuracy_comparison.png
